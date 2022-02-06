@@ -13,8 +13,8 @@ This paper described the Chemprop python package which implements Directed messa
 
 ## Repositories: 
 
-1. [https://github.com/hesther/reactiondatabase](Reaction database for paper #1)
-2. [https://github.com/chemprop/chemprop](Chemprop repository)
+1. [Reaction database for paper #1](https://github.com/hesther/reactiondatabase)
+2. [Chemprop repository](https://github.com/chemprop/chemprop)
 
 ## Learning Objectives:
 
