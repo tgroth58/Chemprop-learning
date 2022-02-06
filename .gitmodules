@@ -1,0 +1,3 @@
+[submodule "Data/reactiondatabase"]
+	path = Data/reactiondatabase
+	url = https://github.com/hesther/reactiondatabase.git
